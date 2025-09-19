@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(36, 35, 35);
+    color: azure;
+}
+h1{
+    color: rgb(72, 72, 151);
+}
+.content{
+    justify-items: center;
+}
+.img{
+    display: flex;
+    width: 400px;
+}
